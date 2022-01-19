@@ -8,6 +8,8 @@ Eu sou Maria Eduarda Cunha, desenvolvedora frontend e apaixonada por UX! 👩�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudizilla&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,17 +21,9 @@ Eu sou Maria Eduarda Cunha, desenvolvedora frontend e apaixonada por UX! 👩�
   <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!--
-**dudizilla/dudizilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/eduardamrtns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23FF75B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/manuu_mvc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF75B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
