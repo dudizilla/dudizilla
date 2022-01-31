@@ -28,7 +28,7 @@ Eu sou Maria Eduarda Cunha, desenvolvedora frontend e apaixonada por UX! ğŸ‘©ğŸ
   <a href="https://instagram.com/dudizilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF75B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-  ![snake gif](https://github.com/dudizilla/dudizilla/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://raw.githubusercontent.com/dudizilla/dudizilla/output/github-contribution-grid-snake.svg)
 
 
   
