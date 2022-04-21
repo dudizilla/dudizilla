@@ -1,6 +1,4 @@
-### ✨ Olá! ✨
-
-Eu sou Maria Eduarda Cunha, desenvolvedora frontend e apaixonada por UX! 👩🏻‍💻
+### ✨ Hi! ✨
 
 <div align="center">
   <a href="https://github.com/dudizilla">
