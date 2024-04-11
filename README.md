@@ -14,7 +14,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Dudizilla-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/795023913624404009/1033380298467065946/IMG-20220411-WA0014-removebg-preview.png">
 </div>
 
 ##
